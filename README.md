@@ -166,7 +166,7 @@ Although no active exploitation was performed, these vulnerabilities could be le
 ## 📄 Report Access
 
 The complete vulnerability assessment report is available here:
-https://github.com/lemina271/FUTURE_CS_01/blob/28cac226de7647425eec0b3506a434a57b7d90e2/REPORT.pdf
+https://github.com/Jebin7777/FUTURE_CS_01/blob/main/REPORT.pdf
 
 ---
 
